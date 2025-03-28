@@ -10,13 +10,13 @@ npm run build
 # To Run Server
 ``` bash
 cd McpServer
-npm run build
+node dist/index.js
 ```
 
 # Open new Terminal - To Run Client
 ``` bash
 cd McpClient
-npm run build
+node dist/index.js
 ```
 
 # Add your Anthropic API Key
